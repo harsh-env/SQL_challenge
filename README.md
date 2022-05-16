@@ -13,3 +13,6 @@ The sql file Query_data_analysis_Emply_DB.spl illustrates the queries used to ge
 ![](https://github.com/harsh-env/SQL_challenge/blob/main/Employee_sql/Screenshot_ans_key/Data_Analysis_Q2.JPG)
 3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
 ![](https://github.com/harsh-env/SQL_challenge/blob/main/Employee_sql/Screenshot_ans_key/Data_Analysis_Q3.JPG)
+4. List the department of each employee with the following information: employee number, last name, first name, and department name.
+5. ![](https://github.com/harsh-env/SQL_challenge/blob/main/Employee_sql/Screenshot_ans_key/Data_Analysis_Q4.JPG)
+6. 
