@@ -31,3 +31,8 @@ The sql file Query_data_analysis_Emply_DB.spl illustrates the queries used to ge
 
 8. List the frequency count of employee last names (i.e., how many employees share each last name) in descending order.
 ![](https://github.com/harsh-env/SQL_challenge/blob/main/Employee_sql/Screenshot_ans_key/Data_Analysis_Q8.JPG)
+
+#Bonus: 
+Data Vislualization using sqlalchemy
+#Histogram for most common Salary Ranges
+![](https://github.com/harsh-env/SQL_challenge/blob/main/Employee_sql/Screenshot_ans_key/Common%20Salary%20Ranges.png)
